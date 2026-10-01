@@ -7,3 +7,4 @@ function iniciar() {
 }
 
 iniciar();
+console.log("Editado desde GitHub");
